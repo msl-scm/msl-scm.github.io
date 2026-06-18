@@ -3,7 +3,7 @@ title: "A Single-machine Distributed-Scheduling Methodology Using Cooperative-In
 collection: publications
 category: manuscripts
 year: 2005
-excerpt: 'Jeong, I-J and V.J. Leon, “A Single-machine Distributed-Scheduling Methodology Using Cooperative-Interaction Via Coupling-Agents,” IIE Transactions, Vol.37, 137-152, 2005'
+excerpt: 'Jeong, I-J and V.J. Leon, “A Single-machine Distributed-Scheduling Methodology Using Cooperative-Interaction Via Coupling-Agents”, IIE Transactions, Vol.37, 137-152, 2005'
 venue: 'IIE Transactions'
 ---
 
