@@ -1,0 +1,1 @@
+Jeong, I-J, V. J. Leon and J.R. Villalobos, “Integrated decision support system for diagnosis, maintenance planning and scheduling of manufacturing systems,” International Journal of Production Research, Vol. 45, No. 2, 267-285,2007
