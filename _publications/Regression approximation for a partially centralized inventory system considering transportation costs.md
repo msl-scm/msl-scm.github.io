@@ -3,7 +3,7 @@ title: "Regression approximation for a partially centralized inventory system co
 collection: publications
 category: manuscripts
 year: 2009
-excerpt: 'DongJu Lee and In-Jae Jeong “Regression approximation for a partially centralized inventory system considering transportation costs", Computers & Industrial Engineering, V56, No4, 1169-1176, 2009'
+excerpt: 'DongJu Lee and In-Jae Jeong, “Regression approximation for a partially centralized inventory system considering transportation costs", Computers & Industrial Engineering, V56, No4, 1169-1176, 2009'
 venue: 'Computers & Industrial Engineering'
 ---
 
