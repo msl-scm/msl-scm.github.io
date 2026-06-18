@@ -3,8 +3,7 @@ title: "A heuristic algorithm to minimize the control places of a Petri net for 
 collection: publications
 category: manuscripts
 year: 2011
-excerpt: 'Jeehyoung Lee and In-Jae Jeong “A heuristic algorithm to minimize the control places of a Petri net for the control of shared machines”, International Journal of Production Research, Vol. 49, No. 9, 1713-1730,2011
-'
+excerpt: 'Jeehyoung Lee and In-Jae Jeong, “A heuristic algorithm to minimize the control places of a Petri net for the control of shared machines”, International Journal of Production Research, Vol. 49, No. 9, 1713-1730, 2011'
 venue: 'International Journal of Production Research'
 ---
 
