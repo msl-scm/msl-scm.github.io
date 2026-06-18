@@ -9,59 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* **Ph.D** (2001)  
-  Indusstrial Engineering
-  Texas A&M University, College Station
+* **Ph.D** 2001  
+  Industrial Engineering
+  Texas A&M University, College Station  
 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **M.S.** 1994  
+  Industrial Engineering  
+  Korea Advanced Institute of Science and Technology, DaeJeon, Korea
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **B.S.** 1992
+  Industrial Engineering
+  Hanyang University, Seoul, Korea
 
+ACADEMIC EXPERIENCES
+======
+* **2013. 1. ~ 2014. 1.**  
+  * Visiting professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore
+
+* **2011. 1. ~ 2011. 7.**
+  * Visiting associate professor, Department of Engineering Technology and Industrial Distribution, Texas A&M University
+
+* **2010. 8. ~ 2010. 12.**
+  * Visiting research scholar, Department of Engineering Technology and Industrial Distribution, Texas A&M University
+
+* **1997 ~ 2001**  
+  * Research Assistant, Texas A&M University, College Station, TX, USA
+  
+CURRENT POSITION
+======
+* **2014.9. ~ pres.**  
+  * Professor, Department of Industrial Engineering, Hanyang University, Seoul, Korea
+* **2009. 9. ~ 2014. 8.**  
+  * Associate professor, Department of Industrial Engineering, Hanyang University, Seoul, Korea
+* **2005. 9. ~ 2009. 8.**  
+  * Assistant professor, Department of Industrial Engineering, Hanyang University, Seoul, Korea
+* **2003. 9. ~ 2005. 8.**  
+  * Full time lecturer, Department of Industrial Engineering, Hanyang University, Seoul, Korea
+
+PROFESSIONAL EXPERIENCES
+======
+* **2001 ~ 2003**  
+  * Senior Engineer, LCD Business, Samsung Electronics, Korea
+  * – Job area: Supply Chain Management
+  
+RESEARCH INTERESTS
+======
+* Supply Chain Management, Collective Optimization
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
