@@ -192,6 +192,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  include:
+    -_pages
 
 
 # These settings control how pages and collections are included in the site
