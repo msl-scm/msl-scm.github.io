@@ -27,9 +27,7 @@ author:
   name             : "MSL SCM Design Lab"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "707-1, Engineering Center, Hanyang University  
-Department of Industrial Engineering, Hanyang University  
-17 Haengdang-dong , Seongdong-gu, Seoul, 133-791, Korea"
+  location         : "707-1, Engineering Center"
   employer         : "HANYANG University"
   uri              : "https://msl.github.io"
   email            : "ijeong@hanyang.ac.kr" 
