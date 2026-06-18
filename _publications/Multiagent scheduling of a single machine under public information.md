@@ -3,7 +3,7 @@ title: "Multiagent scheduling of a single machine under public information"
 collection: publications
 category: manuscripts
 year: 2009
-excerpt: 'Yong-kyu Lee․Yooseong Choi and In-Jae Jeong, “Multiagent scheduling of a single machine under public information”, Journal of Society of Korea Industrial and Systems Engineering, Vol, 32, No. 1, 72-78, 2009'
+excerpt: 'Yong-kyu Lee, Yooseong Choi and In-Jae Jeong, “Multiagent scheduling of a single machine under public information”, Journal of Society of Korea Industrial and Systems Engineering, Vol, 32, No. 1, 72-78, 2009'
 venue: 'Journal of Society of Korea Industrial and Systems Engineering'
 ---
 
