@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "People
+title: "People"
 permalink: /people/
 author_profile: true
 ---
