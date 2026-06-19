@@ -4,8 +4,6 @@ layout: archive
 
 {% include base_path %}
 
-{% assign entries = site[page.collection] %}
-
-{% for post in entries %}
+{% for post in site[page.collection] %}
   {% include archive-single.html %}
 {% endfor %}
